@@ -1,11 +1,17 @@
-# Aplikasi-Login
-Sebuah Aplikasi yang menangani Login
+# DTS FE B4
 
+Berikut Learning Path :
 
-Alur Fitur Login:
-
-Memasukkan email dan password
-
-Memvalidasi masukan.
-
-Menampilkan halaman home.
+1.
+2.
+3.
+4. 
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
